@@ -1,0 +1,8 @@
+# Input Files
+*.pdf
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
